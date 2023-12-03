@@ -1,0 +1,8 @@
+build:
+  version: "3.0"
+
+coin_crawler:
+  message: "Coin Crawler DEFAULT"
+
+
+
